@@ -58,7 +58,7 @@
             this.lblTitle.AutoSize = true;
             this.lblTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.ForeColor = System.Drawing.Color.Black;
-            this.lblTitle.Location = new System.Drawing.Point(264, 9);
+            this.lblTitle.Location = new System.Drawing.Point(255, 9);
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(109, 32);
             this.lblTitle.TabIndex = 0;
@@ -82,7 +82,7 @@
             // 
             this.Campo.AutoSize = true;
             this.Campo.ForeColor = System.Drawing.Color.Black;
-            this.Campo.Location = new System.Drawing.Point(273, 103);
+            this.Campo.Location = new System.Drawing.Point(261, 103);
             this.Campo.Name = "Campo";
             this.Campo.Size = new System.Drawing.Size(98, 20);
             this.Campo.TabIndex = 2;
@@ -101,9 +101,9 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(273, 56);
+            this.textBox1.Location = new System.Drawing.Point(261, 56);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 22);
+            this.textBox1.Size = new System.Drawing.Size(130, 22);
             this.textBox1.TabIndex = 4;
             // 
             // label2
@@ -150,9 +150,9 @@
             "Beni"});
             this.textBox4.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.textBox4.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
-            this.textBox4.Location = new System.Drawing.Point(270, 197);
+            this.textBox4.Location = new System.Drawing.Point(261, 197);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(112, 22);
+            this.textBox4.Size = new System.Drawing.Size(130, 22);
             this.textBox4.TabIndex = 12;
             // 
             // label7
@@ -167,9 +167,9 @@
             // 
             // txtAutoCompleteDataBaseValues
             // 
-            this.txtAutoCompleteDataBaseValues.Location = new System.Drawing.Point(270, 242);
+            this.txtAutoCompleteDataBaseValues.Location = new System.Drawing.Point(261, 242);
             this.txtAutoCompleteDataBaseValues.Name = "txtAutoCompleteDataBaseValues";
-            this.txtAutoCompleteDataBaseValues.Size = new System.Drawing.Size(112, 22);
+            this.txtAutoCompleteDataBaseValues.Size = new System.Drawing.Size(131, 22);
             this.txtAutoCompleteDataBaseValues.TabIndex = 14;
             this.txtAutoCompleteDataBaseValues.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
@@ -197,7 +197,7 @@
             "Chile"});
             this.comboBox1.Location = new System.Drawing.Point(261, 286);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 24);
+            this.comboBox1.Size = new System.Drawing.Size(130, 24);
             this.comboBox1.TabIndex = 16;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged_1);
             // 
@@ -213,9 +213,9 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Location = new System.Drawing.Point(270, 331);
+            this.groupBox1.Location = new System.Drawing.Point(261, 331);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(122, 38);
+            this.groupBox1.Size = new System.Drawing.Size(131, 38);
             this.groupBox1.TabIndex = 18;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Formulario de...";
@@ -232,9 +232,9 @@
             // 
             // panel1
             // 
-            this.panel1.Location = new System.Drawing.Point(270, 386);
+            this.panel1.Location = new System.Drawing.Point(261, 386);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(122, 31);
+            this.panel1.Size = new System.Drawing.Size(131, 31);
             this.panel1.TabIndex = 20;
             // 
             // label6
@@ -250,9 +250,9 @@
             // comboBox2
             // 
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(270, 432);
+            this.comboBox2.Location = new System.Drawing.Point(261, 432);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(121, 24);
+            this.comboBox2.Size = new System.Drawing.Size(130, 24);
             this.comboBox2.TabIndex = 22;
             // 
             // label10
@@ -267,9 +267,9 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(273, 463);
+            this.pictureBox1.Location = new System.Drawing.Point(261, 463);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(119, 33);
+            this.pictureBox1.Size = new System.Drawing.Size(131, 33);
             this.pictureBox1.TabIndex = 24;
             this.pictureBox1.TabStop = false;
             // 
